@@ -11,7 +11,7 @@ import Fooder from './components/Fooder';
 function App() {
   return (
     <div className="App">
-      <NavBar /> 
+      {/* <NavBar />  */}
       <FirstSection />
       <OurStrategy />
       <OurTeam />
