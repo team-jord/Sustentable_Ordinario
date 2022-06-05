@@ -33,7 +33,7 @@ export default function OurSolution() {
                       <span>
                         <i className="uil uil-check"></i>
                       </span>
-                      <span>Para el fron se utilizo React y CSS.</span>
+                      <span>Para el front se utilizo React y CSS.</span>
                     </li>
                     <li className="mt-3">
                       <span>
@@ -74,14 +74,15 @@ export default function OurSolution() {
                   <div className="card shadow-lg">
                     <div className="card-body">
                       <blockquote className="icon mb-0">
-                        <p>
-                          “Cum sociis natoque penatibus et magnis dis parturient
-                          montes.”
+                        <p style={{ textAlign: 'center' }}>
+                          “Sirve, tanto a profesionales como a
+                          pacientes, para gestionar nuestro expediente, encontrar
+                          especialistas en función de los resultados”
                         </p>
                         <div className="blockquote-details">
                           <div className="info p-0">
-                            <h5 className="mb-1">Coriss Ambady</h5>
-                            <p className="mb-0">Financial Analyst</p>
+                            <h5 className="mb-1">Dr. Julio Martinez</h5>
+                            <p className="mb-0">Medico Internista</p>
                           </div>
                         </div>
                       </blockquote>
@@ -93,14 +94,14 @@ export default function OurSolution() {
                     <div className="card-body">
                       <blockquote className="icon mb-0">
                         <p>
-                          “Vivamus sagittis lacus vel augue laoreet rutrum
-                          faucibus dolor auctor. Vestibulum id ligula porta
-                          felis euismod.”
+                          “Ofrece información adecuada a cada test que se
+                          realiza, además de mostrar politicas de uso de
+                          información personal.”
                         </p>
                         <div className="blockquote-details">
                           <div className="info p-0">
-                            <h5 className="mb-1">Cory Zamora</h5>
-                            <p className="mb-0">Marketing Specialist</p>
+                            <h5 className="mb-1">Marco Castellanos</h5>
+                            <p className="mb-0">Ing. Ambiental</p>
                           </div>
                         </div>
                       </blockquote>
@@ -112,13 +113,14 @@ export default function OurSolution() {
                     <div className="card-body">
                       <blockquote className="icon mb-0">
                         <p>
-                          “Donec id elit non porta gravida at eget metus. Duis
-                          mollis est luctus commodo nisi erat.”
+                          “Herramienta de ayuda al control de un expediente
+                           de salud personal, además de ser intuitiva y de facil uso
+                           en la vida diaria.”
                         </p>
                         <div className="blockquote-details">
                           <div className="info p-0">
-                            <h5 className="mb-1">Barclay Widerski</h5>
-                            <p className="mb-0">Sales Specialist</p>
+                            <h5 className="mb-1">Miguel Bermudez</h5>
+                            <p className="mb-0">Ing. Software</p>
                           </div>
                         </div>
                       </blockquote>
@@ -130,13 +132,14 @@ export default function OurSolution() {
                     <div className="card-body">
                       <blockquote className="icon mb-0">
                         <p>
-                          “Nisi erat porttitor ligula, eget lacinia odio sem nec
-                          elit. Aenean eu leo pellentesque.”
+                          “Una aplicación que en estos tiempos te brinda gran ayuda,
+                          ya que muchas personas no tienen el tiempo de tomar en cuenta esto (salud)
+                          pero con la aplicación es más útil a las personas hacerlo.”
                         </p>
                         <div className="blockquote-details">
                           <div className="info p-0">
-                            <h5 className="mb-1">Jackie Sanders</h5>
-                            <p className="mb-0">Investment Planner</p>
+                            <h5 className="mb-1">Felipe Soriano</h5>
+                            <p className="mb-0">Ing. Software</p>
                           </div>
                         </div>
                       </blockquote>
@@ -153,7 +156,6 @@ export default function OurSolution() {
                 No confíe en nuestra palabra. Vea lo que los clientes dicen
                 sobre nosotros.
               </h3>
-              <p>Octa rifate unas reseñas xd</p>
               <a href="#" className="btn btn-primary rounded-pill mt-3">
                 All Testimonials
               </a>
