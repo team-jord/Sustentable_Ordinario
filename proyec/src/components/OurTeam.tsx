@@ -84,7 +84,7 @@ export default function OurTeam() {
                       <h4 className="mb-1">Rafael Antonio Lopez Garcia</h4>
                       <div className="meta mb-2">Full Stack Developer</div>
                       <p className="mb-2">
-                        Fermentum massa justo sit amet risus morbi leo.
+                        Mi alma está triste y sola, triste como el silencio y sola como la luna, y que importa, ser poeta o ser basura.
                       </p>
                       <nav className="nav social mb-0">
                         <a href="#">
@@ -112,7 +112,7 @@ export default function OurTeam() {
                       <h4 className="mb-1">Octavio Agustin Celaya Ojeda</h4>
                       <div className="meta mb-2">Full Stack Developer</div>
                       <p className="mb-2">
-                        La lealtad es un camino de ida y vuelta: 
+                        La lealtad es un camino de ida y vuelta:
                         si yo la quiero de ti, entonces tú la tendrás de mí.
                       </p>
                       <nav className="nav social mb-0">
@@ -141,7 +141,7 @@ export default function OurTeam() {
                       <h4 className="mb-1">Carlo Daniel Valdez Martinez</h4>
                       <div className="meta mb-2">Full Stack Developer</div>
                       <p className="mb-2">
-                        Fermentum massa justo sit amet risus morbi leo.
+                        Entre más oscura se torne la noche, significa que estará más próximo a amanecer
                       </p>
                       <nav className="nav social mb-0">
                         <a href="#">
