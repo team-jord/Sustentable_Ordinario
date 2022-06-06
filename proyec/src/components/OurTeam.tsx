@@ -53,7 +53,7 @@ export default function OurTeam() {
                         alt=""
                       />
                       <h4 className="mb-1">Jairo Esteban Martinez Portillo</h4>
-                      <div className="meta mb-2">Fortnite casual player</div>
+                      <div className="meta mb-2">Full Stack Developer</div>
                       <p className="mb-2">
                         Pues... sabia que quedaba poca gente, así que nomas hice
                         muchos cubitos hacia la zona.
